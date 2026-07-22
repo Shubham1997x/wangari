@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 import type { CatalogProduct } from "@/lib/catalog";
 import { productWaLink } from "@/lib/site";
 import { useCart } from "@/lib/cart";
@@ -5,20 +7,17 @@ import { useCart } from "@/lib/cart";
 export function ProductCard({
   product,
   onInquire,
-  onSelect,
 }: {
   product: CatalogProduct;
   onInquire: (product: CatalogProduct) => void;
-  onSelect: (product: CatalogProduct) => void;
 }) {
   const { items, addItem } = useCart();
   const inCart = items.some((i) => i.productId === product.id);
 
   return (
     <article className="group flex flex-col overflow-hidden rounded-2xl border border-hairline bg-surface shadow-[0_1px_3px_rgba(16,20,43,0.05)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_10px_24px_rgba(16,20,43,0.1)]">
-      <button
-        type="button"
-        onClick={() => onSelect(product)}
+      <Link
+        href={`/products/${product.slug}`}
         className="flex flex-1 cursor-pointer flex-col text-left"
       >
         <div className="relative aspect-square w-full overflow-hidden bg-tint">
@@ -74,7 +73,7 @@ export function ProductCard({
             </p>
           </div>
         </div>
-      </button>
+      </Link>
 
       <div className="border-t border-hairline p-3 pt-2.5 md:p-4 md:pt-3">
         <button

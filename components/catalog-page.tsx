@@ -1,10 +1,9 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 
 import { ProductCard } from "./product-card";
-import { ProductDetailDialog } from "./product-detail-dialog";
 import { SendInquiryDialog } from "./send-inquiry-dialog";
 import type { CatalogData, CatalogProduct } from "@/lib/catalog";
 
@@ -41,8 +40,6 @@ export function CatalogPage({
   const [subcategoryId, setSubcategoryId] = useState<number | null>(initialSubcategoryId);
   const [inquiryProduct, setInquiryProduct] = useState<CatalogProduct | null>(null);
   const [inquiryOpen, setInquiryOpen] = useState(false);
-  const [detailProduct, setDetailProduct] = useState<CatalogProduct | null>(null);
-  const [detailOpen, setDetailOpen] = useState(false);
 
   const activeCategory = data.categories.find((c) => c.id === categoryId);
 
@@ -78,34 +75,6 @@ export function CatalogPage({
     setInquiryProduct(product);
     setInquiryOpen(true);
   };
-
-  const openDetail = (product: CatalogProduct) => {
-    setDetailProduct(product);
-    setDetailOpen(true);
-    const url = new URL(window.location.href);
-    url.searchParams.set("product", product.slug);
-    window.history.replaceState(null, "", url);
-  };
-
-  const closeDetail = (open: boolean) => {
-    setDetailOpen(open);
-    if (!open) {
-      const url = new URL(window.location.href);
-      url.searchParams.delete("product");
-      window.history.replaceState(null, "", url);
-    }
-  };
-
-  useEffect(() => {
-    const slug = new URLSearchParams(window.location.search).get("product");
-    if (!slug) return;
-    const product = data.products.find((p) => p.slug === slug);
-    if (product) {
-      setDetailProduct(product);
-      setDetailOpen(true);
-    }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
 
   return (
     <section id="catalog" className="mx-auto max-w-7xl px-5 pb-12 pt-36 md:px-8 md:pb-16 md:pt-40">
@@ -177,7 +146,7 @@ export function CatalogPage({
       {visible.length > 0 ? (
         <div className="mt-8 grid grid-cols-2 gap-3 sm:gap-5 md:mt-10 md:gap-6 lg:grid-cols-3 xl:grid-cols-4">
           {visible.map((p) => (
-            <ProductCard key={p.id} product={p} onInquire={openInquiry} onSelect={openDetail} />
+            <ProductCard key={p.id} product={p} onInquire={openInquiry} />
           ))}
         </div>
       ) : (
@@ -200,16 +169,6 @@ export function CatalogPage({
           </button>
         </div>
       )}
-
-      <ProductDetailDialog
-        product={detailProduct}
-        open={detailOpen}
-        onOpenChange={closeDetail}
-        onInquire={(p) => {
-          closeDetail(false);
-          openInquiry(p);
-        }}
-      />
 
       <SendInquiryDialog product={inquiryProduct} open={inquiryOpen} onOpenChange={setInquiryOpen} />
     </section>
