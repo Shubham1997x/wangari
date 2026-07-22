@@ -108,7 +108,7 @@ export function CatalogPage({
   }, []);
 
   return (
-    <section id="catalog" className="mx-auto max-w-7xl px-5 pb-12 pt-20 md:px-8 md:pb-16 md:pt-24">
+    <section id="catalog" className="mx-auto max-w-7xl px-5 pb-12 pt-36 md:px-8 md:pb-16 md:pt-40">
       <div className="flex flex-wrap items-center gap-3">
         <div className="relative w-full shrink-0 md:mr-2 md:w-80 lg:w-96">
           <svg

@@ -16,7 +16,7 @@ export function CatalogHero() {
         className="pointer-events-none absolute inset-x-0 top-0 h-1 bg-[repeating-linear-gradient(90deg,var(--color-gold)_0,var(--color-gold)_10px,transparent_10px,transparent_20px)] opacity-70"
       />
 
-      <div className="relative mx-auto max-w-7xl px-5 pb-8 pt-24 md:px-8 md:pb-10 md:pt-28">
+      <div className="relative mx-auto max-w-7xl px-5 pb-8 pt-32 md:px-8 md:pb-10 md:pt-40">
         <span className="inline-flex items-center gap-2 rounded-full border border-ultra/40 bg-ultra/10 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-ultra">
           <svg viewBox="0 0 16 16" fill="currentColor" className="h-3 w-3" aria-hidden="true">
             <circle cx="8" cy="8" r="7" />
