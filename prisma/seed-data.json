@@ -1,0 +1,514 @@
+{
+  "categories": [
+    {
+      "name": "Wireless Chargers",
+      "subcategories": []
+    },
+    {
+      "name": "Power Banks",
+      "subcategories": []
+    },
+    {
+      "name": "Earbuds",
+      "subcategories": []
+    },
+    {
+      "name": "Charging Stations",
+      "subcategories": []
+    },
+    {
+      "name": "Sustainable Hampers",
+      "subcategories": []
+    },
+    {
+      "name": "Corporate Gifting",
+      "subcategories": []
+    }
+  ],
+  "products": [
+    {
+      "slug": "a-power-on-the-go",
+      "name": "‘A’ POWER ON-THE-GO",
+      "blurb": "Wangari Apen QI Wireless and Wired powerbank 10000 mAh Glass sipper with a silicon sleeve (Random Colour) Oblique Trotter Neo Passport Pouch in vegan leather Ob",
+      "category": "Sustainable Hampers",
+      "subcategory": null,
+      "price": 4591,
+      "image": "/uploads/a-power-on-the-go-1.jpg",
+      "images": [
+        "/uploads/a-power-on-the-go-1.jpg",
+        "/uploads/a-power-on-the-go-2.jpg"
+      ],
+      "tags": [
+        "Gift Set"
+      ]
+    },
+    {
+      "slug": "alder-wireless-charger-with-planter",
+      "name": "Alder Wireless Charger with Planter",
+      "blurb": "15W Wireless ChargingFast, efficient, and cable-free charging for your compatible devices. Built-in Eco-Friendly Planter PotGrow fresh basil or other small herb",
+      "category": "Wireless Chargers",
+      "subcategory": null,
+      "price": 1785,
+      "image": "/uploads/alder-wireless-charger-with-planter-1.jpg",
+      "images": [
+        "/uploads/alder-wireless-charger-with-planter-1.jpg",
+        "/uploads/alder-wireless-charger-with-planter-2.jpg",
+        "/uploads/alder-wireless-charger-with-planter-3.jpg",
+        "/uploads/alder-wireless-charger-with-planter-4.jpg"
+      ],
+      "tags": [
+        "Wireless Charging"
+      ]
+    },
+    {
+      "slug": "aspen-mini-5000mah-power-bank",
+      "name": "Aspen Mini 5000mAh Power bank",
+      "blurb": "The power bank has a capacity of 5,000mAh, allowing you to charge your devices multiple times before needing to recharge the power bank itself.",
+      "category": "Power Banks",
+      "subcategory": null,
+      "price": 1499,
+      "image": "/uploads/aspen-mini-5000mah-power-bank-1.jpg",
+      "images": [
+        "/uploads/aspen-mini-5000mah-power-bank-1.jpg",
+        "/uploads/aspen-mini-5000mah-power-bank-2.jpg",
+        "/uploads/aspen-mini-5000mah-power-bank-3.jpg"
+      ],
+      "tags": [
+        "5000mAh"
+      ]
+    },
+    {
+      "slug": "aspen-qi-10000mah-power-bank-with-15w-wireless-charger",
+      "name": "Aspen QI 10000mAh power bank with 15W Wireless Charger",
+      "blurb": "15W Wireless Charger:Provides fast and efficient wireless charging for cable-free convenience.Ideal for quick power-ups, ensuring your devices are always ready ",
+      "category": "Power Banks",
+      "subcategory": null,
+      "price": 2999,
+      "image": "/uploads/aspen-qi-10000mah-power-bank-with-15w-wireless-charger-1.jpg",
+      "images": [
+        "/uploads/aspen-qi-10000mah-power-bank-with-15w-wireless-charger-1.jpg",
+        "/uploads/aspen-qi-10000mah-power-bank-with-15w-wireless-charger-2.jpg",
+        "/uploads/aspen-qi-10000mah-power-bank-with-15w-wireless-charger-3.jpg"
+      ],
+      "tags": [
+        "Fast Charge",
+        "10000mAh"
+      ]
+    },
+    {
+      "slug": "aspen-10000mah-power-bank",
+      "name": "Aspen 10000mAh Power bank",
+      "blurb": "The power bank has a capacity of 10000mAh, allowing you to charge your devices multiple times before needing to recharge the power bank itself.",
+      "category": "Power Banks",
+      "subcategory": null,
+      "price": 2499,
+      "image": "/uploads/aspen-10000mah-power-bank-1.jpg",
+      "images": [
+        "/uploads/aspen-10000mah-power-bank-1.jpg",
+        "/uploads/aspen-10000mah-power-bank-2.jpg",
+        "/uploads/aspen-10000mah-power-bank-3.jpg"
+      ],
+      "tags": [
+        "10000mAh"
+      ]
+    },
+    {
+      "slug": "cherry-bamboo-wireless-earbuds",
+      "name": "Cherry Bamboo Wireless Earbuds",
+      "blurb": "Stylishly crafted with the natural appeal of bamboo, offering a unique and elegant look.",
+      "category": "Earbuds",
+      "subcategory": null,
+      "price": 2499,
+      "image": "/uploads/cherry-bamboo-wireless-earbuds-1.jpg",
+      "images": [
+        "/uploads/cherry-bamboo-wireless-earbuds-1.jpg",
+        "/uploads/cherry-bamboo-wireless-earbuds-2.jpg"
+      ],
+      "tags": [
+        "Bamboo"
+      ]
+    },
+    {
+      "slug": "cosy-productivity",
+      "name": "COSY PRODUCTIVITY",
+      "blurb": "Wangari Willow 3.0 15W Wireless Charger With Cup warmer &amp; Phone Stand Batti &amp; Co. Bubble candles x 4 Mini Picture Frame 4 x 4 inch Magnetic Fridge Plant",
+      "category": "Sustainable Hampers",
+      "subcategory": null,
+      "price": 5444,
+      "image": "/uploads/cosy-productivity-1.jpg",
+      "images": [
+        "/uploads/cosy-productivity-1.jpg",
+        "/uploads/cosy-productivity-2.jpg"
+      ],
+      "tags": [
+        "Gift Set"
+      ]
+    },
+    {
+      "slug": "cypress-6-in-1-multifunction-wireless-charging-junction",
+      "name": "Cypress 6 in 1 Multifunction Wireless Charging Junction",
+      "blurb": "The 6 in 1 Multifunction Wireless Junction is a versatile and innovative accessory designed to cater to various needs in one compact device. Wireless Charging: ",
+      "category": "Charging Stations",
+      "subcategory": null,
+      "price": 4999,
+      "image": "/uploads/cypress-6-in-1-multifunction-wireless-charging-junction-1.jpg",
+      "images": [
+        "/uploads/cypress-6-in-1-multifunction-wireless-charging-junction-1.jpg",
+        "/uploads/cypress-6-in-1-multifunction-wireless-charging-junction-2.jpg",
+        "/uploads/cypress-6-in-1-multifunction-wireless-charging-junction-3.jpg"
+      ],
+      "tags": []
+    },
+    {
+      "slug": "desk-companion-pro",
+      "name": "DESK COMPANION PRO",
+      "blurb": "Wangari Maple 15W Wireless charger &amp;USB hub with pen stand mCaffeine Shimmer body butter mCaffeine Shimmer body scrub mCaffeine hydra rush bosy serum spray ",
+      "category": "Corporate Gifting",
+      "subcategory": null,
+      "price": 5689,
+      "image": "/uploads/desk-companion-pro-1.jpg",
+      "images": [
+        "/uploads/desk-companion-pro-1.jpg",
+        "/uploads/desk-companion-pro-2.jpg"
+      ],
+      "tags": [
+        "Gift Set"
+      ]
+    },
+    {
+      "slug": "desk-companion",
+      "name": "DESK COMPANION",
+      "blurb": "Wangari Willow 15W Wireless charger &amp;cup warmer Wangari Table top Calendar 2025 Soul &amp; Scents Blossom - Reed diffuser set Batti &amp; Co. Bubble candles",
+      "category": "Corporate Gifting",
+      "subcategory": null,
+      "price": 5064,
+      "image": "/uploads/desk-companion-1.jpg",
+      "images": [
+        "/uploads/desk-companion-1.jpg",
+        "/uploads/desk-companion-2.jpg"
+      ],
+      "tags": [
+        "Gift Set"
+      ]
+    },
+    {
+      "slug": "ecotoss-decision-dice-with-15w-wireless-charger",
+      "name": "EcoToss Decision Dice With 15W Wireless Charger",
+      "blurb": "15W Wireless Charging: Delivers efficient and reliable wireless charging for smartphones, keeping desks clutter-free and convenient. Sustainable Bamboo Design: ",
+      "category": "Wireless Chargers",
+      "subcategory": null,
+      "price": 1190,
+      "image": "/uploads/ecotoss-decision-dice-with-15w-wireless-charger-1.jpg",
+      "images": [
+        "/uploads/ecotoss-decision-dice-with-15w-wireless-charger-1.jpg",
+        "/uploads/ecotoss-decision-dice-with-15w-wireless-charger-2.jpg",
+        "/uploads/ecotoss-decision-dice-with-15w-wireless-charger-3.jpg",
+        "/uploads/ecotoss-decision-dice-with-15w-wireless-charger-4.jpg"
+      ],
+      "tags": [
+        "Fast Charge",
+        "Wireless Charging"
+      ]
+    },
+    {
+      "slug": "everyday-essentials",
+      "name": "EVERYDAY ESSENTIALS",
+      "blurb": "Wangari Aspen powerbank 10000 mAh mCaffeine Deep Moisturising body butter mCaffeine Hydra rush Body spray serum Plantable diary with 2 plantable pencils and pen",
+      "category": "Sustainable Hampers",
+      "subcategory": null,
+      "price": 5040,
+      "image": "/uploads/everyday-essentials-1.jpg",
+      "images": [
+        "/uploads/everyday-essentials-1.jpg",
+        "/uploads/everyday-essentials-2.jpg"
+      ],
+      "tags": [
+        "Gift Set"
+      ]
+    },
+    {
+      "slug": "exordium",
+      "name": "EXORDIUM",
+      "blurb": "Wangari Cypress 6 in 1 MultifunctionWireless Charging Junction",
+      "category": "Sustainable Hampers",
+      "subcategory": null,
+      "price": 8377,
+      "image": "/uploads/exordium-1.jpg",
+      "images": [
+        "/uploads/exordium-1.jpg",
+        "/uploads/exordium-2.jpg",
+        "/uploads/exordium-3.jpg"
+      ],
+      "tags": [
+        "Gift Set"
+      ]
+    },
+    {
+      "slug": "genesis",
+      "name": "GENESIS",
+      "blurb": "Wangari Aspen QI 10000mAh power bank with15W Wireless Charger",
+      "category": "Sustainable Hampers",
+      "subcategory": null,
+      "price": 5400,
+      "image": "/uploads/genesis-1.jpg",
+      "images": [
+        "/uploads/genesis-1.jpg",
+        "/uploads/genesis-2.jpg"
+      ],
+      "tags": [
+        "Gift Set"
+      ]
+    },
+    {
+      "slug": "juniper-2-0-10000mah-magsafe-wireless-bamboo-fast-charging-power-bank",
+      "name": "Juniper 2.0 10000mAh Magsafe Wireless Bamboo Fast Charging Power Bank",
+      "blurb": "10,000mAh High-Capacity BatteryProvides reliable power to keep your devices charged throughout the day. 22.5W Fast Wired ChargingDelivers quick, efficient wired",
+      "category": "Power Banks",
+      "subcategory": null,
+      "price": 2999,
+      "image": "/uploads/juniper-2-0-10000mah-magsafe-wireless-bamboo-fast-charging-power-bank-1.jpg",
+      "images": [
+        "/uploads/juniper-2-0-10000mah-magsafe-wireless-bamboo-fast-charging-power-bank-1.jpg",
+        "/uploads/juniper-2-0-10000mah-magsafe-wireless-bamboo-fast-charging-power-bank-2.jpg",
+        "/uploads/juniper-2-0-10000mah-magsafe-wireless-bamboo-fast-charging-power-bank-3.jpg",
+        "/uploads/juniper-2-0-10000mah-magsafe-wireless-bamboo-fast-charging-power-bank-4.jpg",
+        "/uploads/juniper-2-0-10000mah-magsafe-wireless-bamboo-fast-charging-power-bank-5.jpg"
+      ],
+      "tags": [
+        "Bamboo",
+        "Fast Charge",
+        "MagSafe",
+        "10000mAh"
+      ]
+    },
+    {
+      "slug": "luxeworkstation",
+      "name": "LUXEWORKSTATION",
+      "blurb": "Wangari Cypress 6 in 1 multifunctionCharging Junction Soul &amp; Scents Blossom - Reed diffuser set Plantation kit - Butterfly Blue Pea Magnetic Fridge Planter ",
+      "category": "Corporate Gifting",
+      "subcategory": null,
+      "price": 9392,
+      "image": "/uploads/luxeworkstation-1.jpg",
+      "images": [
+        "/uploads/luxeworkstation-1.jpg",
+        "/uploads/luxeworkstation-2.jpg"
+      ],
+      "tags": [
+        "Gift Set"
+      ]
+    },
+    {
+      "slug": "maple-15w-wireless-charger-usb-hub-with-pen-stand",
+      "name": "Maple 15W Wireless Charger & USB Hub With Pen Stand",
+      "blurb": "A Bamboo charger with a pen stand is a functional and aesthetically pleasing accessory that combines the functionality of a charging dock with the convenience o",
+      "category": "Wireless Chargers",
+      "subcategory": null,
+      "price": 1799,
+      "image": "/uploads/maple-15w-wireless-charger-usb-hub-with-pen-stand-1.jpg",
+      "images": [
+        "/uploads/maple-15w-wireless-charger-usb-hub-with-pen-stand-1.jpg",
+        "/uploads/maple-15w-wireless-charger-usb-hub-with-pen-stand-2.jpg",
+        "/uploads/maple-15w-wireless-charger-usb-hub-with-pen-stand-3.jpg"
+      ],
+      "tags": [
+        "Fast Charge",
+        "Wireless Charging"
+      ]
+    },
+    {
+      "slug": "olive-15w-round-wireless-bamboo-charger",
+      "name": "Olive 15W Round Wireless Bamboo Charger",
+      "blurb": "This wireless charger is a unique and new way to charge your device. Simply place the device on the surface to charge it. No need to connect cables to the phone",
+      "category": "Wireless Chargers",
+      "subcategory": null,
+      "price": 999,
+      "image": "/uploads/olive-15w-round-wireless-bamboo-charger-1.jpg",
+      "images": [
+        "/uploads/olive-15w-round-wireless-bamboo-charger-1.jpg",
+        "/uploads/olive-15w-round-wireless-bamboo-charger-2.jpg",
+        "/uploads/olive-15w-round-wireless-bamboo-charger-3.jpg"
+      ],
+      "tags": [
+        "Bamboo",
+        "Fast Charge",
+        "Wireless Charging"
+      ]
+    },
+    {
+      "slug": "onset",
+      "name": "ONSET",
+      "blurb": "Wangari Willow 3.0 15W Wireless Charger WithCup warmer &amp; Phone Stand",
+      "category": "Sustainable Hampers",
+      "subcategory": null,
+      "price": 5777,
+      "image": "/uploads/onset-1.jpg",
+      "images": [
+        "/uploads/onset-1.jpg",
+        "/uploads/onset-2.jpg",
+        "/uploads/onset-3.jpg",
+        "/uploads/onset-4.jpg"
+      ],
+      "tags": [
+        "Gift Set"
+      ]
+    },
+    {
+      "slug": "pine-15w-square-bamboo-wireless-charger-with-usb-hub",
+      "name": "Pine 15W Square Bamboo Wireless Charger With USB Hub",
+      "blurb": "This wireless charger is a unique and new way to charge your device. Simply place the device on the surface to charge it. No need to connect cables to the phone",
+      "category": "Wireless Chargers",
+      "subcategory": null,
+      "price": 999,
+      "image": "/uploads/pine-15w-square-bamboo-wireless-charger-with-usb-hub-1.jpg",
+      "images": [
+        "/uploads/pine-15w-square-bamboo-wireless-charger-with-usb-hub-1.jpg",
+        "/uploads/pine-15w-square-bamboo-wireless-charger-with-usb-hub-2.jpg",
+        "/uploads/pine-15w-square-bamboo-wireless-charger-with-usb-hub-3.jpg"
+      ],
+      "tags": [
+        "Bamboo",
+        "Fast Charge",
+        "Wireless Charging"
+      ]
+    },
+    {
+      "slug": "preamble",
+      "name": "PREAMBLE",
+      "blurb": "Wangari Pine 15W Square Bamboo WirelessCharger with USB Hub",
+      "category": "Sustainable Hampers",
+      "subcategory": null,
+      "price": 5500,
+      "image": "/uploads/preamble-1.jpg",
+      "images": [
+        "/uploads/preamble-1.jpg",
+        "/uploads/preamble-2.jpg"
+      ],
+      "tags": [
+        "Gift Set"
+      ]
+    },
+    {
+      "slug": "preface",
+      "name": "PREFACE",
+      "blurb": "Wangari Willow 15W Wireless Charger WithCup Warmer",
+      "category": "Sustainable Hampers",
+      "subcategory": null,
+      "price": 4235,
+      "image": "/uploads/preface-1.jpg",
+      "images": [
+        "/uploads/preface-1.jpg",
+        "/uploads/preface-2.jpg",
+        "/uploads/preface-3.jpg"
+      ],
+      "tags": [
+        "Gift Set"
+      ]
+    },
+    {
+      "slug": "prelude",
+      "name": "PRELUDE",
+      "blurb": "Wangari Aspen 10000mAh Power bank",
+      "category": "Sustainable Hampers",
+      "subcategory": null,
+      "price": 4689,
+      "image": "/uploads/prelude-1.jpg",
+      "images": [
+        "/uploads/prelude-1.jpg",
+        "/uploads/prelude-2.jpg"
+      ],
+      "tags": [
+        "Gift Set"
+      ]
+    },
+    {
+      "slug": "proem",
+      "name": "PROEM",
+      "blurb": "Wangari Willow 15W Wireless Charger WithCup Warmer",
+      "category": "Sustainable Hampers",
+      "subcategory": null,
+      "price": 5991,
+      "image": "/uploads/proem-1.jpg",
+      "images": [
+        "/uploads/proem-1.jpg",
+        "/uploads/proem-2.jpg",
+        "/uploads/proem-3.jpg"
+      ],
+      "tags": [
+        "Gift Set"
+      ]
+    },
+    {
+      "slug": "prologue",
+      "name": "PROLOGUE",
+      "blurb": "Wangari Maple 15W Wireless charger &amp; USBHub with Pen Stand",
+      "category": "Sustainable Hampers",
+      "subcategory": null,
+      "price": 5088,
+      "image": "/uploads/prologue-1.jpg",
+      "images": [
+        "/uploads/prologue-1.jpg",
+        "/uploads/prologue-2.jpg",
+        "/uploads/prologue-3.jpg"
+      ],
+      "tags": [
+        "Gift Set"
+      ]
+    },
+    {
+      "slug": "cork-diary-power-bank-wdpb5000mah",
+      "name": "Cork Diary Power bank WDPB5000mAh",
+      "blurb": "Premium Cork-Finish Outer CoverElegant cork-textured finish that delivers a sleek, professional appearance while offering durability for everyday use. Built-In ",
+      "category": "Power Banks",
+      "subcategory": null,
+      "price": 1999,
+      "image": "/uploads/cork-diary-power-bank-wdpb5000mah-1.jpg",
+      "images": [
+        "/uploads/cork-diary-power-bank-wdpb5000mah-1.jpg",
+        "/uploads/cork-diary-power-bank-wdpb5000mah-2.jpg",
+        "/uploads/cork-diary-power-bank-wdpb5000mah-3.jpg",
+        "/uploads/cork-diary-power-bank-wdpb5000mah-4.jpg",
+        "/uploads/cork-diary-power-bank-wdpb5000mah-5.jpg"
+      ],
+      "tags": [
+        "Cork",
+        "5000mAh"
+      ]
+    },
+    {
+      "slug": "willow-3-0-15w-wireless-charger-with-cup-warmer-phone-stand",
+      "name": "Willow 3.0 15W Wireless Charger With Cup warmer & Phone Stand",
+      "blurb": "15W Wireless Charging:Delivers fast and efficient wireless charging for compatible devices.Ideal for quick, hassle-free power-ups without the need for cables. B",
+      "category": "Wireless Chargers",
+      "subcategory": null,
+      "price": 2265,
+      "image": "/uploads/willow-3-0-15w-wireless-charger-with-cup-warmer-phone-stand-1.jpg",
+      "images": [
+        "/uploads/willow-3-0-15w-wireless-charger-with-cup-warmer-phone-stand-1.jpg",
+        "/uploads/willow-3-0-15w-wireless-charger-with-cup-warmer-phone-stand-2.jpg",
+        "/uploads/willow-3-0-15w-wireless-charger-with-cup-warmer-phone-stand-3.jpg"
+      ],
+      "tags": [
+        "Fast Charge",
+        "Wireless Charging"
+      ]
+    },
+    {
+      "slug": "willow-15w-wireless-charger-with-cup-warmer",
+      "name": "Willow 15W Wireless Charger With Cup Warmer",
+      "blurb": "Wireless Charging: The charger supports wireless charging technology, such as Qi, allowing you to charge compatible devices by simply placing them on the chargi",
+      "category": "Wireless Chargers",
+      "subcategory": null,
+      "price": 1999,
+      "image": "/uploads/willow-15w-wireless-charger-with-cup-warmer-1.jpg",
+      "images": [
+        "/uploads/willow-15w-wireless-charger-with-cup-warmer-1.jpg",
+        "/uploads/willow-15w-wireless-charger-with-cup-warmer-2.jpg",
+        "/uploads/willow-15w-wireless-charger-with-cup-warmer-3.jpg"
+      ],
+      "tags": [
+        "Fast Charge",
+        "Wireless Charging"
+      ]
+    }
+  ]
+}

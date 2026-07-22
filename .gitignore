@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# prisma
+/prisma/*.db
+/prisma/*.db-journal
+/lib/generated/prisma
+
+# runtime image uploads (served by app/uploads/[filename]/route.ts)
+/uploads
+
